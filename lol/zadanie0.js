@@ -1,2 +1,2 @@
 console.log("witaj świecie");
-//kupagit
+//Marcin Majborski
